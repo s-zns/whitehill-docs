@@ -6,7 +6,7 @@ sidebar_label: Introduction
 
 # Introduction
 
-Welcome to Whitehill Group! We are the leading provider of Access Control and building systems on the Roblox platform.
+Welcome to Whitehill Group! We are the leading provider of access control and building systems on the Roblox platform.
 
 :::note
 
@@ -26,4 +26,4 @@ Get started by buying or taking a Whitehill product from our [ePortal](https://w
 
 Once done, you can move onto downloading your desired product from [Axon](https://axon.whitehill.group) unless the model is provided via the [ePortal](https://www.roblox.com/games/13188104119/Whitehill-ePortal) (AutoPro and KONE Turnstiles).
 
-If you've followed this documentation and you're still experiencing issues please open a ticket in our [Discord server.](https://discord.whitehill.group/)
+If you've followed this documentation and you're still experiencing issues, please open a ticket in our [Discord server.](https://discord.whitehill.group/)
