@@ -3,7 +3,7 @@
 
 :::info
 
-Download the recent available file for this product via [Axon](https://axon.whitehill.group).
+Download the latest available file for this product via [Axon](https://axon.whitehill.group).
 
 :::
 ### 1) Enable HTTP Requests {#1}
@@ -13,13 +13,19 @@ In Roblox Studio with your selected game open, click the 'Home' tab, then 'Game 
 
 
 ### 2) Product Insertion {#2}
-Insert your file by 'dragging' the product file into Roblox Studio with your game fully loaded. Use `CTRL + U` to ungroup the model.
+Insert your file by 'dragging' the product file into Roblox Studio with your game fully loaded. Press `CTRL + U` to ungroup the model.
 
 ### 3) Product Installation {#3}
-Use the built in Roblox movement tools to position the inserted doors and readers.
-You can change the Readers and Buttons used on each door by placing the readers and buttons you wish to use in the applicable folders via the roblox explorer, But remember to delete any unneeded ones!
+:::warning
 
-To use the K50 Keypad & Card reader with DWProx Net2+ you are required to download it from axon using the dropdown on the Net2+ product card. You will then need to move it into the "Readers" folder.
+Ensure that Join Surfaces is turned off before installing your doors. See the warning below for more information.
+
+:::
+
+Use the built in Roblox movement tools to position the inserted doors and readers.
+You can change the readers and buttons used on each door by placing the ones you wish to use in the applicable folders via the Roblox explorer, but remember to delete any unwanted ones!
+
+To use the K50 Keypad & Card reader with DWProx Net2+, you have to download it from [Axon](https://axon.whitehill.group/) using the dropdown on the Net2+ product card. You will then need to move it into the "Readers" folder.
 
 :::warning
 
